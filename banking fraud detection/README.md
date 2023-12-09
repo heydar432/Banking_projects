@@ -35,12 +35,6 @@ The dataset for this project is sourced from Kaggle: [Credit Card Fraud Detectio
 - Metrics: Accuracy, Precision, Recall, F1 Score.
 - Techniques: Grid Search, Feature Selection, Correlation Analysis.
 
-## 🤖 How to Run
-
-1. Download the dataset from Kaggle.
-2. Install the required libraries.
-3. Run the analysis script to train the model and evaluate its performance.
-
 ## 💡 Key Observations
 
 - The rebalanced dataset helped in improving the model's performance.
